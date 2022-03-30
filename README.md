@@ -1,2 +1,2 @@
 # exampleJquery
-Example Show And Hide In Jquery_1.11.2
+Example show and hide in jquery_1.11.2
